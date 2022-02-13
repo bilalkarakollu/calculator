@@ -1,1 +1,1 @@
-## [drum-machine](https://bilalkarakollu.github.io/drum-machine/)
+## [calculator](https://bilalkarakollu.github.io/calculator/)
